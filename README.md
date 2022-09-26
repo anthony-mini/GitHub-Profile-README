@@ -44,6 +44,7 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Software, Tools & Others</h3>
+
 <p align="center"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </a> 
 &nbsp;&nbsp;&nbsp;  
@@ -65,8 +66,13 @@
 <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40" color="white"/> </a> </p>
 <br/><br/>
 
+<h3 align="center">Documentation Tools</h3>
+<p align="center"> 
+<a href="https://readthedocs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Read-the-docs.png" alt="read the docs" width="40" height="40"/> </a>
+</p>
 
 <h2 align="center"> <strong> Connect with me </strong> </h2> </br>
+
 <p align="center"> 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-mini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profil linkedin anthony" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
