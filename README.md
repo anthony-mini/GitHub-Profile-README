@@ -3,7 +3,7 @@
 <p align="center"> <i>
   👨🏻‍💻 I’m currently learning <strong>Web Development ! </strong></br></br>
   🚀 All my projects are available on my portfolio <a href="https://www.anthonymini.fr"> <strong>Portfolio !</strong> </a></br></br>
-  📫 How to reach me : <a href="mailto:anthony.mini@hotmail.fr"> anthony.mini@hotmail.fr </a><br/>
+  📫 How to reach me : <a href="mailto:contact@anthonymini.fr"> anthony.mini@hotmail.fr </a><br/>
   </i>
 </p>
 
