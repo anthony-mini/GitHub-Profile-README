@@ -1,4 +1,4 @@
-<h1> <img src="./src/avatar-gradient.gif" width="30"> Hey ! Welcome. </h1>
+<h1> <img src="./src/avatar-gradient.gif" width="100" align="center"> Hey ! Welcome. </h1>
 
 <p> 
   <b> Welcome to my page ! </b>
