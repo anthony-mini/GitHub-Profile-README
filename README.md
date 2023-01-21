@@ -27,7 +27,16 @@
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=shell&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-Material UI-000000?style=for-the-badge&logo=mui&logoColor=white" />
+  <img alt="CRA" src="https://img.shields.io/badge/-Create React App-000000?style=for-the-badge&logo=createreactapp&logoColor=white" />
+  <img alt="GIT" src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="VScode" src="https://img.shields.io/badge/-Visual Studio Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-tailwind css-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-blender-000000?style=for-the-badge&logo=blender&logoColor=white" />
+  <img alt="Virtualbox" src="https://img.shields.io/badge/-virtualbox-000000?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </p>
 
 <p>  
