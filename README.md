@@ -32,6 +32,10 @@
 
 <p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact&theme=react" alt="anthony-mini" /> </p>
 
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 6 January, 04:02 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+
 <!-- <p align="center"><img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&theme=radical" /> </p>
 
 
