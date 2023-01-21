@@ -30,7 +30,11 @@
   📫 How to reach me : <a href="mailto:contact@anthonymini.fr"> contact@anthonymini.fr </a>
 </p>
 
-<!-- <p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact" alt="anthony-mini" /> </p>
+<p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact&theme=react" alt="anthony-mini" /> </p>
+
+<!-- <p align="center"><img width="100%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&theme=radical" /> </p>
+
+
 
 
 
