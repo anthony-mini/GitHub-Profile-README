@@ -1,19 +1,37 @@
-<h1 align="center">Hi 👋, I'm <strong> Anthony </strong> !</h1>
+<h1> <img src="./src/avatar-gradient.gif" width="30"> Hey ! Welcome. </h1>
 
-<p align="center"> <i>
-  👨🏻‍💻 I’m currently learning <strong>Web Development ! </strong></br></br>
-  🚀 All my projects are available on my portfolio <a href="https://www.anthonymini.fr"> <strong>Portfolio !</strong> </a></br></br>
-  📫 How to reach me : <a href="mailto:contact@anthonymini.fr"> contact@anthonymini.fr </a><br/>
-  </i>
+<p> 
+  <b> Welcome to my page ! </b>
+  </br>
+  I'm Anthony, front-end developer from <b>Lyon, France</b>
+  </br>
+  I'm currently learning ThreeJs ! 
+  </br>
+</p>
+<h3>Thing I code with</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact" alt="anthony-mini" /> </p>
+<p>  
+  🚀 All of my projects are available on my <a href="https://www.anthonymini.fr"> <strong>portfolio !</strong> </a>
+  </br>
+  📫 How to reach me : <a href="mailto:contact@anthonymini.fr"> contact@anthonymini.fr </a>
+</p>
 
-<!--<h3 align="center"> 📊 My GitHub Stats :</h3><br/>
+<!-- <p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact" alt="anthony-mini" /> </p>
 
-<p align="center"><img align="center" width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony-mini&show_icons=true&locale=en&layout=compact" alt="anthony-mini" /> <img align="center" width="auto" height="148px" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony-mini&" alt="anthony-mini" /></p>
-<br/><br/>
--->
 
 
 <h2 align="center"> <strong> Skills </strong> </h2>
@@ -77,4 +95,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anthony-mini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profil linkedin anthony" height="30" width="40" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codepen.io/anthony-mini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="profil code pen anthony" height="30" width="40" /></a> 
-</p> <br/>
+</p> <br/> -->
