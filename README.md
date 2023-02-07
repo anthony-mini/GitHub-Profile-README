@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://user-images.githubusercontent.com/82963356/217263432-a946875d-2f31-4ecd-9004-ca5b4373780b.png)
+![Banner-en](https://user-images.githubusercontent.com/82963356/217269246-8c42f952-e34b-4161-a676-8de2fa2c456b.png)
 
 <p align="justify">
 Hi ! I'm Anthony, web developer  from <b>France, Lyon</b> 📍
