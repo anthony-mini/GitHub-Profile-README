@@ -123,7 +123,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <div align = "left">
     
-[![mail: Anthony Mini](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:contact@anthonymini.fr)](mailto:contact@anthonymini.fr)&nbsp;&nbsp;&nbsp;
+[![mail: Anthony Mini](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=Thunderbird&logoColor=white&link=mailto:contact@anthonymini.fr)](mailto:contact@anthonymini.fr)&nbsp;&nbsp;&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/anthony-mini)](https://www.frontendmentor.io/profile/anthony-mini)&nbsp;&nbsp;&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/anthony-mini)](https://codepen.io/anthony-mini)&nbsp;&nbsp;&nbsp;
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/anthony.mini)](https://linktr.ee/anthony.mini)&nbsp;&nbsp;&nbsp;
