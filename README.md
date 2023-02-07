@@ -43,7 +43,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 <br>
 
 
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="left">🛠️ Languages and Tools</h2>
 
 <div align = "left">
 
@@ -63,7 +63,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
     
 </details>
 
-<details close>
+<details open>
 <summary><b> Back-end</b></summary>
 <br>
 <img alt="Node.js" src="https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -105,3 +105,27 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <br>
 
+<h2 align="left">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-mini&layout=compact&theme=react&exclude_repo=la-maison-jungle,AnthonyMini_3_13112021,AnthonyMini_PortfolioProject)
+
+
+</div>
+<br>
+
+<h2 align="left">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![mail: Anthony Mini](https://img.shields.io/badge/-Mail-red?style=for-the-badge&logo=Mail&logoColor=white&link=mailto:contact@anthonymini.fr)](mailto:contact@anthonymini.fr)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/anthony-mini)](https://www.frontendmentor.io/profile/anthony-mini)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/anthony-mini)](https://codepen.io/anthony-mini)
+<br>
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/anthony.mini)](https://linktr.ee/anthony.mini)&nbsp;
+[![Linkedin: Anthony Mini](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-mini)](https://www.linkedin.com/in/anthony-mini)
+  
+</div>
+
+<br>
