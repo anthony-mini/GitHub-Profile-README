@@ -21,7 +21,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 - 🔭 I’m currently studying on **becoming a front-end developer**.
 
-- 🌱 I’m currently learning **React and Node.js**.
+- 🌱 I’m currently learning **React and TypeScript**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/anthony-mini)
 
@@ -35,7 +35,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 ## Goals
 
 - 🚀 Improve my skills in **JavaScript**.
-- 🚀 Learn more about **React** and **Node.js**.
+- 🚀 Learn more about **React** and **TypeScript**.
 - 🚀 Improve my **web design** skills
 - 🚀 Create my portfolio website.
 
