@@ -35,7 +35,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 ## Goals
 
 - 🚀 Improve my skills in **JavaScript**.
-- 🚀 Learn more about **React** and **TypeScript**.
+- 🚀 Learn more about **React** & **TypeScript**.
 - 🚀 Improve my **web design** skills
 - 🚀 Create my portfolio website.
 
