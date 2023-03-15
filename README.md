@@ -110,6 +110,16 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <br>
 
+<h2 align="left">📝 My latest post post</h2>
+
+<ul>
+    <li>
+        <a href="https://medium.com/@anthony.mini/breaking-the-tutorial-cycle-how-frontend-mentor-can-helpyou-5ea61924c5da"> 😵‍💫 Breaking the Tutorial Cycle: How Frontend Mentor can Help You ! </a>
+    </li>
+</ul>
+
+<br>
+
 <h2 align="left">📊 Github Stats</h2>
 
 <div align = "left">
