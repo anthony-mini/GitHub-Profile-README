@@ -2,7 +2,7 @@
 ![Banner-en](https://user-images.githubusercontent.com/82963356/217269246-8c42f952-e34b-4161-a676-8de2fa2c456b.png)
 
 <p align="justify">
-Hi ! I'm Anthony, web developer  from <b>France, Lyon</b> 📍
+Hi ! I'm Anthony, web developer  from <b>France, Lyon</b> 📍 🇫🇷
 <br>
 I like to combine my creativity with the technical challenges offered by web development.
 <br>
