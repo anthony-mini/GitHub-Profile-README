@@ -110,7 +110,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <br>
 
-<h2 align="left">📝 My latest post post</h2>
+<h2 align="left">📝 My latest post</h2>
 
 <ul>
     <li>
