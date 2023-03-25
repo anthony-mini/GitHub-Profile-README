@@ -139,7 +139,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/anthony-mini)](https://codepen.io/anthony-mini)&nbsp;&nbsp;&nbsp;
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/anthony.mini)](https://linktr.ee/anthony.mini)&nbsp;&nbsp;&nbsp;
 [![Linkedin: Anthony Mini](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-mini)](https://www.linkedin.com/in/anthony-mini)&nbsp;&nbsp;&nbsp;
-[![Friend.Figma: Anthony Mini](https://img.shields.io/badge/-Figma-2C2C2C?style=for-the-badge&logo=Figma&logoColor=white&link=https://friends.figma.com/u/mz5zn9/#/about)](https://friends.figma.com/u/mz5zn9/#/about)&nbsp;&nbsp;&nbsp;
+[![Friend.Figma: Anthony Mini](https://img.shields.io/badge/-Figma-2C2C2C?style=for-the-badge&logo=Figma&logoColor=white&link=https://friends.figma.com/u/mz5zn9/#/about)](https://www.figma.com/@anthonymini)&nbsp;&nbsp;&nbsp;
   
 </div>
 
