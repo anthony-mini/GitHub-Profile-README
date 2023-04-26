@@ -27,6 +27,9 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 - 📫 How to reach me: <a href="mailto:contact@anthonymini.fr"> contact@anthonymini.fr</a>
 
+<br>
+
+<a href='https://www.anthonymini.fr'>Visit my Website</a>
 
 
 <br>
