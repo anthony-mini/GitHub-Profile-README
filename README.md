@@ -29,7 +29,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <br>
 
-<a href='https://www.anthonymini.fr'>Visit my Website</a>
+<a href='https://anthonymini.fr'>Visit my Website</a>
 
 
 <br>
