@@ -29,7 +29,7 @@ This field is for me the ideal tool to realize innovative and creative projects,
 
 <br>
 
-<a href='https://anthonymini.fr'>Visit my Website</a>
+<!-- <a href='https://anthonymini.fr'>Visit my Website</a> -->
 
 
 <br>
@@ -38,9 +38,9 @@ This field is for me the ideal tool to realize innovative and creative projects,
 ## Goals
 
 - 🚀 Improve my skills in **JavaScript**.
-- 🚀 Learn more about **React** & **TypeScript**.
-- 🚀 Improve my **web design** skills
-- 🚀 Create my portfolio website.
+- 🚀 Learn more about **React** & **Angular** framework.
+- 🚀 Enhancement of database design practices and the adoption of software design parttern.  
+- 🚀 Improve my **web design** skills.
 
 <br>
 <br>
